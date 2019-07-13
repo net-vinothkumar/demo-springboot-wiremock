@@ -23,6 +23,9 @@ It will be helpful when you run integration test.
 
 Hereby I have shared the example for the wiremock with springboot.
 
+<img width="936" alt="Screen Shot 2019-07-13 at 15 42 31" src="https://user-images.githubusercontent.com/30971809/61172457-e5bac700-a584-11e9-8344-b8324468b7cc.png">
+
+
 ## Application Demo:
 
 ## 'Product Catalog Service':

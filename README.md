@@ -4,6 +4,9 @@ A spring boot demo application with wiremock
 
 This project explains how to use wiremock in springboot application
 
+<img width="1073" alt="Screen Shot 2019-07-13 at 15 40 54" src="https://user-images.githubusercontent.com/30971809/61172444-b1dfa180-a584-11e9-8b3c-8a1b758caf53.png">
+
+
 ## WireMock
 > Mock your APIs for fast, robust and comprehensive testing
 WireMock is a simulator for HTTP-based APIs. Some might consider it a service virtualization tool or a mock server.

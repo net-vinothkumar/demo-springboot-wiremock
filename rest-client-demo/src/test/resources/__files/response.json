@@ -1,0 +1,32 @@
+[
+  {
+    "productCatalogId": "1",
+    "productCatalogName": "Apple Watch Series 4 LTE",
+    "modelNumber": "Q501-060",
+    "price": "60000"
+  },
+  {
+    "productCatalogId": "2",
+    "productCatalogName": "Samsung Galaxy Tab 2 10.1",
+    "modelNumber": "Q501-061",
+    "price": "100000"
+  },
+  {
+    "productCatalogId": "3",
+    "productCatalogName": "Virtual Reality 3D 4K Camera",
+    "modelNumber": "Q501-062",
+    "price": "20000"
+  },
+  {
+    "productCatalogId": "4",
+    "productCatalogName": "Apple MacBook Air, 13-inch, Intel Dual-Core i5, Silver 128 GB",
+    "modelNumber": "Q501-063",
+    "price": "110000"
+  },
+  {
+    "productCatalogId": "5",
+    "productCatalogName": "HyperX Cloud Gaming Headset Flight",
+    "modelNumber": "Q501-064",
+    "price": "9000"
+  }
+]

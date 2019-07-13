@@ -157,3 +157,7 @@ Created Sample response.json in test resource folder for mock
   }
 ]
 ```
+Run the integration test ProductSearchControllerTest.java
+
+<img width="1646" alt="Screen Shot 2019-07-13 at 09 11 12" src="https://user-images.githubusercontent.com/30971809/61168419-44b11980-a54e-11e9-8e08-8306cb599ac2.png">
+
